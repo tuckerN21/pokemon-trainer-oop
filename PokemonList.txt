@@ -1,3 +1,10 @@
+/******************************************************************************
+Author: Tucker Neikirk
+Date: August 29, 2025
+Purpose: Contains a list of wild Pokémon used for random encounters in the
+         Pokémon Trainer program.
+*******************************************************************************/
+
 Arbok
 Golbat
 Beedrill
