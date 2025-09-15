@@ -1,7 +1,9 @@
 /******************************************************************************
 Author: Tucker Neikirk
-Date: November 11, 2024
-Purpose: Define the Trainer class
+Date: August 29, 2025
+Purpose: Declare the Trainer type, which manages a trainer's information and
+         Pokémon data. Includes function prototypes for adding, copying, and
+         displaying trainer details.
 *******************************************************************************/
 
 #include <string>
