@@ -1,9 +1,8 @@
 /******************************************************************************
 Author: Tucker Neikirk
 Date: August 29, 2025
-Purpose: Declare the Trainer type, which manages a trainer's information and
-         Pokémon data. Includes function prototypes for adding, copying, and
-         displaying trainer details.
+Purpose: Declare the Trainer class and related constants. Defines the interface
+         for managing a trainer's name, Pokémon, and items.
 *******************************************************************************/
 
 #include <string>
