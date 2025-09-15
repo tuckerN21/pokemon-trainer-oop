@@ -1,9 +1,8 @@
 /******************************************************************************
 Author: Tucker Neikirk
 Date: August 29, 2025
-Purpose: Implement the Trainer functions declared in trainer.h. Handles loading
-         trainer data, adding Pokémon, copying trainer objects, and printing
-         information in a readable format.
+Purpose: Implement the Trainer class functions for managing trainer data,
+         Pokémon inventory, and item usage.
 *******************************************************************************/
 
 #include "Trainer.h"
