@@ -1,7 +1,8 @@
 /******************************************************************************
 Author: Tucker Neikirk
-Date: November 11, 2024
-Purpose: Simulate a Pokémon game using the Trainer class
+Date: August 29, 2025
+Purpose: Run the Pokémon Trainer program. Handles wild encounters, item
+         collection, battles, catching Pokémon, and saving the final results.
 *******************************************************************************/
 
 #include "Trainer.h"
