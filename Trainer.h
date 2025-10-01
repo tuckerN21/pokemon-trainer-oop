@@ -1,6 +1,6 @@
 /******************************************************************************
 Author: Tucker Neikirk
-Date: August 29, 2025
+Date: November 12, 2024
 Purpose: Declare the Trainer class and related constants. Defines the interface
          for managing a trainer's name, Pokémon, and items.
 *******************************************************************************/
