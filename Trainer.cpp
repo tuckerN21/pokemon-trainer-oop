@@ -1,6 +1,6 @@
 /******************************************************************************
 Author: Tucker Neikirk
-Date: August 29, 2025
+Date: November 12, 2024
 Purpose: Implement the Trainer class functions for managing trainer data,
          Pokémon inventory, and item usage.
 *******************************************************************************/
