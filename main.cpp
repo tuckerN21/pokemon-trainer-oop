@@ -1,6 +1,6 @@
 /******************************************************************************
 Author: Tucker Neikirk
-Date: August 29, 2025
+Date: November 12, 2024
 Purpose: Run the Pokémon Trainer program. Handles wild encounters, item
          collection, battles, catching Pokémon, and saving the final results.
 *******************************************************************************/
