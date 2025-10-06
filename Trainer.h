@@ -16,24 +16,24 @@ using namespace std;
 class Trainer
 {
 	public:
-		// constructors
+		// Constructors
 		Trainer();
 		Trainer(const string userName, const string starter);
 		Trainer(const Trainer& other);
 
-		// destructor
+		// Destructor
 		~Trainer();
 
-		// getters
+		// Getters
 		string getName() const;
 		string getPokemon(const int index) const;
 		int getNumPokemon() const;
 		int getItemAmount(const int index) const;
 
-		// setters
+		// Setters
 		void setName(const string userName);
 
-		// other methods
+		// Other methods
 		void printStats() const;
 		bool hasPokemonSpace() const;
 		void addPokemon(const string pokemonName);
@@ -42,7 +42,7 @@ class Trainer
 		void removePokemon(const int index);
 		void writeFile(const string filename);
 
-		// member variables - indices of each item
+		// Member variables - indices of each item
 		static const int POKE_BALL = 0;
 		static const int ULTRA_BALL = 1;
 		static const int REVIVE = 2;
